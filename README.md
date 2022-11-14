@@ -25,3 +25,6 @@ Rozszerzenie scenariusza dodatkowego: Jedno wynagrodzenie może być wypłacone 
 #### Przykład:
 Pracownik rozlicza się w danym roku podatkiem progresywnym. Pierwsze wynagrodzenie w tym roku w wysokości 5000 złotych. Mieści się w w całości limicie 85528, więc stosuje się stawkę 17&nbsp;%, co daje 850 złotych. Dodatkowo pomniejszone o 525,12 złotych daje 324,88. Zaokrąglone w dól daje finalnie 324 złote.<br>
 Kolejne wynagrodzenie w tym roku w wysokości 100000 złotych. Uwzględniając poprzednie wynagrodzenie (5000&nbsp;zł) wychodzi 80528&nbsp;zł mieszczących się w limicie 85528 (stawka 17&nbsp;%) i 19472&nbsp;zł ponad ten limit (stawka 32&nbsp;%). Daje to 13689,76 + 6231,04 = 19920,80. Pomniejszenie podatku o 525,12 zostało już w danym roku zastosowane, więc zostaje tylko zaokrąglić finalną wartość, co daje 19920 złotych. Aby uzyskać łączną kwotę podatku należy do kwoty 19920 dodać 324, co daje 20245&nbsp;zł.
+
+#### Wynik:
+![ScreenShot](Screenshot.png)
